@@ -1,4 +1,4 @@
-# STA220_Final_Proj
+# Fire_Pattern_Analysis_CONUS
 Project Name: Fire Patterns and Drivers in CONUS
 
 Yuhan Huang
@@ -40,8 +40,6 @@ Chrome has limitations on rendering large interactive maps, so large maps were s
 Please refer to the /saved_data folder
 ### Note:
 This is a long notebook, so several .csv containing cleaned data were generated. Please uncomment the corresponding script to generate those datasets.
-
-### To access the repository: https://github.com/welkinland/STA220_Final_Proj
 
 
 
